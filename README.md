@@ -1,1 +1,5 @@
-"# simple-QtBlog"  git init git add README.md git commit -m "first commit" git branch -M main git remote add origin https://github.com/BrunoFelixDeSousa/simple-QtBlog. git  git push -u origin main
+"#simple-QtBlog"
+
+Blog básico apenas para estudar estrutura HTML e CSS.
+
+Estou em fase de aprendizado, então o código ainda não está em um nível agradavél.
